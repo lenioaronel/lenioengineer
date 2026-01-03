@@ -1,5 +1,5 @@
 # 🎡 Lenio Araujo
-**`Digital Craftsman (FrontEnd Engineer | Graphic design | Creator)`** 
+**`Digital Craftsman (FrontEnd Engineer | Creator)`** 
 
 I’m Lénio Araújo — aka Lénio Aronel — a front-end engineer in the making, blending design intuition with clean, fast, and intuitive development practices. I craft interfaces that feel effortless, modern, and user-first. I’m driven by creativity, JavaScript wizardry, and a relentless hunger to learn. This space showcases my build-in-public journey: projects, experiments, and the evolving ideas that are shaping me into a modern, impact-driven front-end engineer.
 
