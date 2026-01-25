@@ -1,13 +1,9 @@
 # 🎡 Lenio Araujo
-**`Digital Craftsman (FrontEnd Engineer | Creator)`** 
+**`Software Builder (FrontEnd Engineer | Architect)`** 
 
-I’m Lénio Araújo — aka Lénio Aronel — a front-end engineer in the making, blending design intuition with clean, fast, and intuitive development practices. I craft interfaces that feel effortless, modern, and user-first. I’m driven by creativity, JavaScript wizardry, and a relentless hunger to learn. This space showcases my build-in-public journey: projects, experiments, and the evolving ideas that are shaping me into a modern, impact-driven front-end engineer.
+I’m Lénio Araújo — also known as Lénio Aronel — I approach software engineering with a learning-by-doing mindset, utilizing real projects and challenges to build clean, scalable, and user-centered systems. I value clarity in code, thoughtful structure, and continuous improvement as core principles of engineering. My current focus is on growing into a reliable and innovative engineer who delivers polished user experiences and robust front-end solutions.
 
  <p align="left">
-      <a href="https://www.youtube.com/@LenioAronel?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCG72BOHOYTnIVTOK_443kIA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/LenioAronel">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCG72BOHOYTnIVTOK_443kIA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/lenioengineer?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lenioengineer?color=A4A6A6&labelColor=727576&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/lenioengineer?tab=repositories&sort=stargazers">
