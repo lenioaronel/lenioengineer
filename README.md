@@ -1,7 +1,9 @@
 # 🎡 Lenio Araujo
 **`Software Builder (FrontEnd Engineer | Architect)`** 
 
-I’m Lénio Araújo — also known as Lénio Aronel — I approach software engineering with a learning-by-doing mindset, utilizing real projects and challenges to build clean, scalable, and user-centered systems. I value clarity in code, thoughtful structure, and continuous improvement as core principles of engineering. My current focus is on growing into a reliable and innovative engineer who delivers polished user experiences and robust front-end solutions.
+Software Engineer focused on front-end development, with a learning-by-doing mindset.
+I build clean, scalable, and user-centered systems, valuing code clarity, solid structure, and continuous improvement.
+My goal is to deliver polished user experiences and reliable engineering solutions.
 
  <p align="left">
       <a href="https://github.com/lenioengineer?tab=followers">
